@@ -1,0 +1,15 @@
+{
+  "name": "srv_express_ddelcampo",
+  "version": "1.0.0",
+  "description": "Server con Express que devuelve productos cargados en entrega2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Damian del Campo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

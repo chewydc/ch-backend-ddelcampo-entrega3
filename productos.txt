@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Regla",
+    "price": 323.45,
+    "thumbnail": "www.maped.com",
+    "id": 1
+  },
+  {
+    "title": "Lapiz",
+    "price": 234.56,
+    "thumbnail": "www.pizzini.com",
+    "id": 2
+  },
+  {
+    "title": "Goma",
+    "price": 45.67,
+    "thumbnail": "www.maped.com",
+    "id": 3
+  },
+  {
+    "title": "Tijera",
+    "price": 45.78,
+    "thumbnail": "www.maped.com",
+    "id": 4
+  },
+  {
+    "title": "Mochila",
+    "price": 637.89,
+    "thumbnail": "www.Hi5.com",
+    "id": 5
+  },
+  {
+    "title": "Repuesto Hoja",
+    "price": 78.9,
+    "thumbnail": "www.rivadavia.com",
+    "id": 6
+  },
+  {
+    "title": "Regla 15cm",
+    "price": 23.45,
+    "thumbnail": "www.maped.com",
+    "id": 7
+  },
+  {
+    "title": "Lapiz HB",
+    "price": 234.56,
+    "thumbnail": "www.pizzini.com",
+    "id": 8
+  },
+  {
+    "title": "Goma 2 Banderas",
+    "price": 45.67,
+    "thumbnail": "www.maped.com",
+    "id": 9
+  },
+  {
+    "title": "Tijera",
+    "price": 456.78,
+    "thumbnail": "www.maped.com",
+    "id": 10
+  },
+  {
+    "title": "Mochila Spiderman",
+    "price": 67.89,
+    "thumbnail": "www.Hi5.com",
+    "id": 11
+  },
+  {
+    "title": "Repuesto Hoja A4",
+    "price": 78.9,
+    "thumbnail": "www.rivadavia.com",
+    "id": 12
+  },
+  {
+    "title": "Regla 30cm",
+    "price": 323.45,
+    "thumbnail": "www.maped.com",
+    "id": 13
+  },
+  {
+    "title": "Lapiz 2B",
+    "price": 234.56,
+    "thumbnail": "www.pizzini.com",
+    "id": 14
+  },
+  {
+    "title": "Goma Blanca",
+    "price": 45.67,
+    "thumbnail": "www.maped.com",
+    "id": 15
+  },
+  {
+    "title": "Tijera",
+    "price": 46.78,
+    "thumbnail": "www.maped.com",
+    "id": 16
+  },
+  {
+    "title": "Mochila Niño",
+    "price": 67.89,
+    "thumbnail": "www.Hi5.com",
+    "id": 17
+  },
+  {
+    "title": "Repuesto Hoja Rayada",
+    "price": 78.9,
+    "thumbnail": "www.rivadavia.com",
+    "id": 18
+  },
+  {
+    "title": "producto1",
+    "price": 125.89,
+    "thumbnail": "www.hola1.com",
+    "id": 19
+  },
+  {
+    "title": "producto2",
+    "price": 42.39,
+    "thumbnail": "www.prdo2.com",
+    "id": 20
+  },
+  {
+    "title": "producto1",
+    "price": 125.89,
+    "thumbnail": "www.hola1.com",
+    "id": 21
+  }
+]
